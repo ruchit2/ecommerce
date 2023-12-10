@@ -1,3 +1,3 @@
 export function Button(): JSX.Element {
-  return <button></button>;
+  return <button className="text-red-400">hello</button>;
 }
